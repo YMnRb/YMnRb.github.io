@@ -1,5 +1,5 @@
 Home page.
 
-[Blogs here. ](blogs/index.html)
+[Blogs here. ](https://YMnRb.github.io/blogs/)
 
-[View old `index.html` ](index_old.html)
+[View old `index.html` ](/index_old.html)
