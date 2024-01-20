@@ -8,9 +8,8 @@ site_description: Home Page of YMnRb's Website
 nav:
   - Home:
     - index.md
-  # - About:
-  #   - about/index.md
-  #   - about: about/1.md
+  - About:
+    - about/index.md
 
 theme:
   name: material
