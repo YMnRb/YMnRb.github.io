@@ -1,8 +1,8 @@
 # [Info]
-site_name: Website of YMnRb # 左上角标题
+site_name: Home # 左上角标题
 site_url: https://YMnRb.github.io
 site_author: YMnRb
-site_description: Blogs of YMnRb
+site_description: Home Page of YMnRb's Website
 
 # [Navigtion]
 nav:
