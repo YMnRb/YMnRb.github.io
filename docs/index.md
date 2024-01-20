@@ -1,3 +1,3 @@
 Home page.
 
-[Blogs](/blogs/index.html)
+[Blogs here. ](/blogs/index.html)
