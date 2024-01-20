@@ -1,2 +1,1 @@
-### <center>Home page | YMnRb's website page</center>
-This is [YMnRb](https://github.com/YMnRb "YMnRb's github home page")'s website page. 
+This is [YMnRb](https://github.com/YMnRb "GitHub @YMnRb")'s website page. 

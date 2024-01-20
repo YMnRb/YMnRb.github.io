@@ -1,0 +1,40 @@
+# [Info]
+site_name: Website of YMnRb # 左上角标题
+site_url: https://YMnRb.github.io
+site_author: YMnRb
+site_description: Blogs of YMnRb
+
+# [Navigtion]
+nav:
+  - Home:
+    - index.md
+  # - About:
+  #   - about/index.md
+  #   - about: about/1.md
+
+theme:
+  name: material
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: red
+      toggle:
+        icon: octicons/sun-16 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: purple
+      accent: deep orange
+      toggle:
+        icon: octicons/moon-16
+        name: Switch to light mode
+extra:
+  social:
+    # - icon: octicons/mail-16
+    #   link: mailto:yuanjy_2022@163.com
+    #   name: Mail me to yuanjy_2022@163.com
