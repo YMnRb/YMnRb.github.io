@@ -10,4 +10,4 @@ Please wait and refresh this page in several minute.
 <!--
 -->
 
-[试卷](https://ymnrb.github.io/StudyNotes/docs/maths/papers/2-4-2023-1.md)
+[试卷](https://ymnrb.github.io/StudyNotes/maths/papers/2-4-2023-1/)
